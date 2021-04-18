@@ -1,0 +1,8 @@
+prefix=/root/catkin_ws/devel
+
+Name: reach_a_point
+Description: Description of reach_a_point
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

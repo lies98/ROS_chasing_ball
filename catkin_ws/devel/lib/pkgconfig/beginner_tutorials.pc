@@ -1,0 +1,8 @@
+prefix=/root/catkin_ws/devel
+
+Name: beginner_tutorials
+Description: Description of beginner_tutorials
+Version: 0.0.0
+Cflags: -I/root/catkin_ws/devel/include
+Libs: -L${prefix}/lib -ltiago_opencv_tutorial
+Requires: roscpp rospy image_transport cv_bridge pal_detection_msgs geometry_msgs message_generation
